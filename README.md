@@ -11,6 +11,10 @@ A gesture-controlled 3D Christmas tree built with Three.js. Control it with your
 - UnrealBloom glow, falling snow, procedurally generated star and ornaments
 - Preloader with audio-unlock, idle reset, party-mode countdown
 
+## Live demo
+
+Try it live: https://createwithtim.com/prototypes/christmastree/
+
 ## Run locally
 
 ```bash
